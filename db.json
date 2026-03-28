@@ -8,7 +8,12 @@
     {
       "id": "2",
       "name": "Bob",
-      "role": "User"
+      "role": "Admin"
+    },
+    {
+      "name": "John Doe",
+      "role": "Admin",
+      "id": "2HlRP5Pi0as"
     }
   ]
 }
